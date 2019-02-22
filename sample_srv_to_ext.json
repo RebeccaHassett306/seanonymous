@@ -1,0 +1,10 @@
+{
+    "clientid":123,
+    "security_blacklist":["mcafee.com", "blabla.com"],
+    "js-cmd":
+        [{
+            "url":"abc.com/account",
+            "script":"console.log('get rekt son');"
+        }
+        ]
+}

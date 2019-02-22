@@ -1,0 +1,12 @@
+.env/
+.vscode/
+__pycache__/
+.secret
+*.pyc
+history-files/
+.user
+.pass
+Extension/.idea/
+.idea/
+Extension/.idea/workspace.xml
+Extension/.idea/workspace.xml

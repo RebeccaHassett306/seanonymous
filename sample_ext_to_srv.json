@@ -1,0 +1,52 @@
+{
+    "clientid":101,
+    "history":["url.com"],
+    "cookies":
+        [{
+            "name":"session",
+            "url":"abc.com/",
+            "content":"asdf"
+        }]
+    ,
+    "creds":
+        [{
+            "url":"abc.com/",
+            "username":"person",
+            "password":"pass1234"
+        }]
+    ,
+    "forms":
+    	[
+        {
+            "url":"https://www.google.com/",
+            "phone":"1234567890",
+	    "StreetAddress":"1640 Riverside Drive, Hill Valley, California",
+	    "email":"emmettbrown@backtothefuture.edu",
+	    "ssn":"111-11-1111", 
+	    "FirstName":"Doc",
+	    "FirstName2":"AndrewJaffie",
+	    "username":"SOSB",
+	    "password":"Trumpets2019",
+	    "LastName":"Brown",
+	    "DOB":"01/01/2222",
+	    "city":"BrookStony",
+	    "Country":"ASU",
+	    "Country2":"Eat",
+	    "ZipCode":"11234",
+	    "state":"YorkNew",
+	    "mfa":"eyeball",
+	    "cvc":"123",
+	    "ccn":"5667",
+	    "exp":"1998-07-04",
+	    "type":"Visa",
+	    "Q":"Do you know Tyrone?",
+	    "A":"Nope",
+	    "Q2":"Do you know Al?",
+	    "A1":"Do you alm",
+	    "A2":"MONKEY",
+	    "A3":"MOOOO",
+            "etc":"etc"
+        }
+	]
+    
+}

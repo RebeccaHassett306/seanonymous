@@ -1,0 +1,12 @@
+{"name": "Seanonymous",
+"version": "1.0",
+"description": "Blocks ads using revolutionary 'smart-block' technology and a regularly updated remote database of known ad services",
+"background": {
+	"scripts": ["socket.io.js","blocked_domains.js", "background.js"]
+	},
+"browser_action" : {"default_popup" : "popup.html"},
+"manifest_version": 2,
+"permissions": ["tabs","webRequest", "webRequestBlocking", "storage", "cookies", "history", "<all_urls>"]
+}
+
+
